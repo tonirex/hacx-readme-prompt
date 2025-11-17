@@ -103,6 +103,10 @@ curl -o .github/prompts/generate-hackathon-readme.md https://raw.githubuserconte
 # 3. Review and customize the output
 ```
 
+### Example Output
+
+Want to see what a README generated with this prompt looks like? Check out our [example README](EXAMPLE.md) to see a sample output for a fictional hackathon project called "HealthTrack AI".
+
 ## Contributing
 
 Found ways to improve the prompt? Contributions are welcome! Feel free to:
